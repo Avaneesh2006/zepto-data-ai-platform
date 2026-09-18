@@ -29,3 +29,14 @@ Activate the virtual environment and install:
 
 ```bash
 python -m pip install requests beautifulsoup4 pandas
+
+
+## Validation
+
+The completed pipeline was validated with:
+
+- 100 books stored in the SQLite database
+- 29 unique categories
+- Five SQL queries executed successfully
+- SQL JOIN and Pandas `merge()` produced equivalent results
+- SQL JOIN and Pandas merge equivalence check returned `True`
