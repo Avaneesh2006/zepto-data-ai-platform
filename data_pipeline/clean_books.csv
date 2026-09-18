@@ -1,0 +1,101 @@
+title,rating,category,book_url,price_gbp,in_stock,price_inr
+A Light in the Attic,3,Poetry,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,51.77,True,5461.735000000001
+Tipping the Velvet,1,Historical Fiction,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html,53.74,True,5669.570000000001
+Soumission,1,Fiction,https://books.toscrape.com/catalogue/soumission_998/index.html,50.1,True,5285.55
+Sharp Objects,4,Mystery,https://books.toscrape.com/catalogue/sharp-objects_997/index.html,47.82,True,5045.01
+Sapiens: A Brief History of Humankind,5,History,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html,54.23,True,5721.264999999999
+The Requiem Red,1,Young Adult,https://books.toscrape.com/catalogue/the-requiem-red_995/index.html,22.65,True,2389.575
+The Dirty Little Secrets of Getting Your Dream Job,4,Business,https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html,33.34,True,3517.3700000000003
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",3,Default,https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html,17.93,True,1891.615
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,4,Default,https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html,22.6,True,2384.3
+The Black Maria,1,Poetry,https://books.toscrape.com/catalogue/the-black-maria_991/index.html,52.15,True,5501.825
+"Starving Hearts (Triangular Trade Trilogy, #1)",2,Default,https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html,13.99,True,1475.945
+Shakespeare's Sonnets,4,Poetry,https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html,20.66,True,2179.63
+Set Me Free,5,Young Adult,https://books.toscrape.com/catalogue/set-me-free_988/index.html,17.46,True,1842.0300000000002
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),5,Sequential Art,https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html,52.29,True,5516.595
+Rip it Up and Start Again,5,Music,https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html,35.02,True,3694.61
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",3,Music,https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html,57.25,True,6039.875
+Olio,1,Poetry,https://books.toscrape.com/catalogue/olio_984/index.html,23.88,True,2519.3399999999997
+Mesaerion: The Best Science Fiction Stories 1800-1849,1,Science Fiction,https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html,37.59,True,3965.7450000000003
+Libertarianism for Beginners,2,Politics,https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html,51.33,True,5415.315
+It's Only the Himalayas,2,Travel,https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html,45.17,True,4765.435
+In Her Wake,1,Thriller,https://books.toscrape.com/catalogue/in-her-wake_980/index.html,12.84,True,1354.62
+How Music Works,2,Music,https://books.toscrape.com/catalogue/how-music-works_979/index.html,37.32,True,3937.26
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",3,Food and Drink,https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html,30.52,True,3219.86
+Chase Me (Paris Nights #2),5,Romance,https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html,25.27,True,2665.985
+Black Dust,5,Romance,https://books.toscrape.com/catalogue/black-dust_976/index.html,34.53,True,3642.915
+Birdsong: A Story in Pictures,3,Childrens,https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html,54.64,True,5764.52
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,3,Default,https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html,22.5,True,2373.75
+Aladdin and His Wonderful Lamp,3,Default,https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html,53.13,True,5605.215
+Worlds Elsewhere: Journeys Around Shakespeare’s Globe,5,Nonfiction,https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html,40.3,True,4251.65
+Wall and Piece,4,Art,https://books.toscrape.com/catalogue/wall-and-piece_971/index.html,44.18,True,4660.99
+The Four Agreements: A Practical Guide to Personal Freedom,5,Spirituality,https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html,17.66,True,1863.13
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,3,Nonfiction,https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html,31.05,True,3275.775
+The Elephant Tree,5,Thriller,https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html,23.82,True,2513.01
+The Bear and the Piano,1,Childrens,https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html,36.89,True,3891.895
+Sophie's World,5,Philosophy,https://books.toscrape.com/catalogue/sophies-world_966/index.html,15.94,True,1681.6699999999998
+Penny Maybe,3,Default,https://books.toscrape.com/catalogue/penny-maybe_965/index.html,33.29,True,3512.095
+Maude (1883-1993):She Grew Up with the country,2,Default,https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html,18.02,True,1901.11
+"In a Dark, Dark Wood",1,Mystery,https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html,19.63,True,2070.9649999999997
+Behind Closed Doors,4,Thriller,https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html,52.22,True,5509.21
+You can't bury them all: Poems,2,Poetry,https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html,33.63,True,3547.965
+Slow States of Collapse: Poems,3,Poetry,https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html,57.31,True,6046.205
+Reasons to Stay Alive,2,Nonfiction,https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html,26.41,True,2786.255
+Private Paris (Private #10),5,Fiction,https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html,47.61,True,5022.855
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,5,Nonfiction,https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html,23.11,True,2438.105
+Without Borders (Wanderlove #1),2,New Adult,https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html,45.07,True,4754.885
+When We Collided,1,Contemporary,https://books.toscrape.com/catalogue/when-we-collided_955/index.html,31.77,True,3351.735
+"We Love You, Charlie Freeman",5,Fiction,https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html,50.27,True,5303.485000000001
+Untitled Collection: Sabbath Poems 2014,4,Poetry,https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html,14.27,True,1505.485
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",4,Nonfiction,https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html,44.18,True,4660.99
+Unicorn Tracks,3,Fantasy,https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html,18.78,True,1981.2900000000002
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",1,History,https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html,25.52,True,2692.36
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),1,Sequential Art,https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html,16.28,True,1717.5400000000002
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,3,Nonfiction,https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html,31.12,True,3283.1600000000003
+This One Summer,4,Sequential Art,https://books.toscrape.com/catalogue/this-one-summer_947/index.html,19.49,True,2056.1949999999997
+Thirst,5,Fiction,https://books.toscrape.com/catalogue/thirst_946/index.html,17.27,True,1821.985
+The Torch Is Passed: A Harding Family Story,1,Unknown,https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html,19.09,True,2013.995
+The Secret of Dreadwillow Carse,1,Childrens,https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html,56.13,True,5921.715
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",1,Food and Drink,https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html,56.41,True,5951.254999999999
+The Past Never Ends,4,Mystery,https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html,56.5,True,5960.75
+The Natural History of Us (The Fine Art of Pretending #2),3,Young Adult,https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html,45.22,True,4770.71
+The Nameless City (The Nameless City #1),4,Sequential Art,https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html,38.16,True,4025.8799999999997
+The Murder That Never Was (Forensic Instincts #5),3,Fiction,https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html,54.11,True,5708.605
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,4,Science,https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html,42.96,True,4532.28
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",4,Unknown,https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html,23.89,True,2520.395
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,3,Nonfiction,https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html,16.77,True,1769.235
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",5,Default,https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html,20.59,True,2172.245
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,1,Nonfiction,https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html,37.13,True,3917.215
+The Electric Pencil: Drawings from Inside State Hospital No. 3,1,Nonfiction,https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html,56.06,True,5914.33
+The Death of Humanity: and the Case for Life,4,Philosophy,https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html,58.11,True,6130.605
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",3,Health,https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html,49.05,True,5174.775
+The Art Forger,3,Unknown,https://books.toscrape.com/catalogue/the-art-forger_930/index.html,40.76,True,4300.179999999999
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,1,History,https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html,19.73,True,2081.515
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,5,Spirituality,https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html,32.24,True,3401.32
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,4,Nonfiction,https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html,41.83,True,4413.065
+Soul Reader,2,Default,https://books.toscrape.com/catalogue/soul-reader_926/index.html,39.58,True,4175.69
+Security,2,Horror,https://books.toscrape.com/catalogue/security_925/index.html,39.25,True,4140.875
+"Saga, Volume 6 (Saga (Collected Editions) #6)",3,Fantasy,https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html,25.02,True,2639.61
+"Saga, Volume 5 (Saga (Collected Editions) #5)",2,Sequential Art,https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html,51.04,True,5384.72
+Reskilling America: Learning to Labor in the Twenty-First Century,2,Nonfiction,https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html,19.83,True,2092.0649999999996
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",3,Sequential Art,https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html,50.4,True,5317.2
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",5,Sequential Art,https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html,13.61,True,1435.855
+Princess Between Worlds (Wide-Awake Princess #5),5,Fantasy,https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html,13.34,True,1407.37
+"Pop Gun War, Volume 1: Gift",1,Sequential Art,https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html,18.97,True,2001.3349999999998
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",2,History,https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html,36.28,True,3827.54
+Patience,3,Sequential Art,https://books.toscrape.com/catalogue/patience_916/index.html,10.16,True,1071.88
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",4,Sequential Art,https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html,15.44,True,1628.9199999999998
+orange: The Complete Collection 1 (orange: The Complete Collection #1),1,Sequential Art,https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html,48.41,True,5107.254999999999
+Online Marketing for Busy Authors: A Step-By-Step Guide,1,Self Help,https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html,46.35,True,4889.925
+On a Midnight Clear,3,Unknown,https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html,14.07,True,1484.385
+Obsidian (Lux #1),2,Young Adult,https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html,14.86,True,1567.73
+My Paris Kitchen: Recipes and Stories,2,Food and Drink,https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html,33.37,True,3520.535
+Masks and Shadows,2,Fantasy,https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html,56.4,True,5950.2
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",4,Food and Drink,https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html,14.02,True,1479.11
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",2,Sequential Art,https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html,46.91,True,4949.004999999999
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",3,Sequential Art,https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html,45.61,True,4811.855
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),2,Sequential Art,https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html,19.92,True,2101.5600000000004
+"Layered: Baking, Building, and Styling Spectacular Cakes",1,Food and Drink,https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html,40.11,True,4231.605
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),2,Unknown,https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html,53.9,True,5686.45
+Join,5,Science Fiction,https://books.toscrape.com/catalogue/join_902/index.html,35.67,True,3763.1850000000004
+In the Country We Love: My Family Divided,4,Nonfiction,https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html,22.0,True,2321.0
