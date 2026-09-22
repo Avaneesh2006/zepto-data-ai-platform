@@ -24,3 +24,14 @@ Policy Retrieval / Direct Answer
 Pydantic Validation
       ↓
 FastAPI Response
+
+
+## Validation
+
+The assistant was tested using both local FastAPI and Docker.
+
+Docker deployment was verified with:
+
+```powershell
+docker build -t zepto-support-assistant ./support_assistant
+docker run --rm -p 8000:8000 zepto-support-assistant
